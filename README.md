@@ -1,5 +1,4 @@
 # guessGame    
-
 ## Character(Choseable)
 -----------------------
  - Character A
