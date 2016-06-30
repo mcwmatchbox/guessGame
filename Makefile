@@ -12,4 +12,4 @@ run:
 	./guessGame
 
 buildTestEnv:
-	sudo apt-get install libunittest++ dev
+	sudo apt-get install libunittest++-dev
