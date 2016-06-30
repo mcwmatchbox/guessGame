@@ -34,10 +34,7 @@ You should input a number between 0 and 19, If the number you input equals the r
 
 ## Test
 The guessGameTest.cpp programm in the "guessGame" folder, you can  test the function used in guessGame.cpp by it.
-### Build  unittest++ env
-```
-make buildTestEnv
-```
+
 ### Run Test
 ```
 make test

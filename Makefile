@@ -1,4 +1,4 @@
-all:clean guessGame guessGameTest
+all:clean guessGame guessGameTest buildTestEnv
 guessGame:guessGame.cpp
 	g++ -o guessGame guessGame.cpp
 guessGameTest:guessGame.cpp
