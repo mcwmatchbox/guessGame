@@ -6,11 +6,9 @@
  	* Using it as sample
 
 ## Principle description
-------------------------
  * Using library function Random() generate a integer number between 1 an 20, then compare the number you input with the random number.
 
 ## Usage
--------------
 ### 1. download guesssGame project
  ```
  git clone https://github.com/mcwmatchbox/guessGame.git
@@ -37,6 +35,5 @@ The guessGameTest.cpp programm in the "guessGame" folder, you can  test the func
 make test
 ```  
 ## Attention
-------------
  * A. The number you input must be an integer number between 0 and 19.
  
