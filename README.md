@@ -19,7 +19,7 @@
  cd guessGame
  ```
 ### 3. Build the project
- ```
+ ```  
  make
  ``` 
 ### 4. run the project
